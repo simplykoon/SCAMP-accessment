@@ -1,0 +1,2 @@
+# SCAMP-accessment
+Fibonacci sequence
